@@ -75,7 +75,18 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Renusri-Naraharasetty&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Renusri-Naraharasetty&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Renusri-Naraharasetty&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Renusri-Naraharasetty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+###
 
 <h2 align="left">“Code is like humor. When you have to explain it, it’s bad.” – Cory House</h2>  
